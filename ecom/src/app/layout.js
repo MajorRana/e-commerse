@@ -7,7 +7,6 @@ export default function Mainlayout({ children }) {
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
     <meta content="Free HTML Templates" name="keywords"/>
     <meta content="Free HTML Templates" name="description"/>
-
     <link href="/static/img/favicon.ico" rel="icon"/>
 
     <link rel="preconnect" href="https://fonts.gstatic.com"/>
